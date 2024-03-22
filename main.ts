@@ -1,3 +1,5 @@
 let grret = "Hello";
 
-console.log(grret);
+let userName = "Wajid";
+
+console.log(grret + " " + userName);
